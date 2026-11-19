@@ -2,15 +2,17 @@
 
 A simple Library Management System built in two sprints using Scrum and GitHub Projects.
 
+**Scrum Board:** https://github.com/users/hadiisidd/projects/1
+
 ## Team and roles
 
 | Role | Name | GitHub username |
 | --- | --- | --- |
-| Product Owner (PO) | hadi | @hadiisidd |
-| Scrum Master (SM) | Umer | @<umeriql18-debug> |
-| Developer | <name> | @<osamaxhasan> |
-| Developer | <name> | @<Rameel789> |
-| Stakeholder | Instructor | @<username> |
+| Product Owner (PO) | Hadi | @hadiisidd |
+| Scrum Master (SM) | Umer | @umeriql18-debug |
+| Developer | Osama Hassan | @osamaxhassan |
+| Developer | Rameel Ahmed | @Rameel789 |
+| Stakeholder | Instructor | @<instructor-username> |
 
 ## Definition of Done
 
@@ -22,4 +24,3 @@ A user story is Done only when:
 - [ ] The pull request closes its issue (`Closes #<issue number>`).
 - [ ] The program runs with `python main.py` without errors, and `python -m unittest` passes.
 - [ ] The PO accepted the story at the Sprint Review.
- 
