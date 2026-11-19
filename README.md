@@ -22,3 +22,4 @@ A user story is Done only when:
 - [ ] The pull request closes its issue (`Closes #<issue number>`).
 - [ ] The program runs with `python main.py` without errors, and `python -m unittest` passes.
 - [ ] The PO accepted the story at the Sprint Review.
+ 
